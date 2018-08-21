@@ -11,3 +11,5 @@ let resultado = libProp.sumarDosValoresSimple(5, 7);
    NOTA: el Read File es async, por eso usa el callback function "resultadoFile"
 */
 fs.readFile('data.txt', 'utf-8', libProp.resultadoFile );
+
+/* después sigo..*/
