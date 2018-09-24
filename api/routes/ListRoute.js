@@ -12,10 +12,6 @@ module.exports = function(app) {
     console.log(res);
     });
 
-  app.get('/Ombligo', function (req, res) {
-    res.send('Ombligo test');
-  });
-
   app.route('/tasks')
     .get(apiList.list_all_tasks)
     .post(apiList.create_a_task);
