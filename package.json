@@ -1,24 +1,19 @@
 {
-  "name": "apilist",
+  "name": "nodejstest",
   "version": "1.0.0",
-  "description": "RESTFUL ApiList",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbelisario/Api_test.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^1.18.3"
+  "bugs": {
+    "url": "https://github.com/mbelisario/Api_test/issues"
   },
-  "dependencies": {
-    "aws-sdk": "^2.320.0",
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3",
-    "express-fileupload": "^0.4.0",
-    "jsonwebtoken": "^8.3.0",
-    "mongoose": "^5.2.9",
-    "morgan": "^1.9.0",
-    "multer": "^1.3.1"
-  }
+  "homepage": "https://github.com/mbelisario/Api_test#readme"
 }
