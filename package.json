@@ -15,10 +15,5 @@
   "bugs": {
     "url": "https://github.com/mbelisario/Api_test/issues"
   },
-  "homepage": "https://github.com/mbelisario/Api_test#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
-    "mongoose": "^5.3.4"
-  }
+  "homepage": "https://github.com/mbelisario/Api_test#readme"
 }
