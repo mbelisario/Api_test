@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mbelisario/Api_test/issues"
   },
-  "homepage": "https://github.com/mbelisario/Api_test#readme"
+  "homepage": "https://github.com/mbelisario/Api_test#readme",
+  "dependencies": {
+    "aws-sdk": "^2.341.0",
+    "busboy": "^0.2.14",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
 }
